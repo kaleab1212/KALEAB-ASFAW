@@ -34,11 +34,12 @@
 
 ## 📊 GitHub Stats  
 
-![Kaleab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleabasfaw&show_icons=true&theme=tokyonight)  
+![Kaleab's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaleab1212&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleabasfaw&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaleab1212&layout=compact&theme=radical)
 
-![Profile views](https://komarev.com/ghpvc/?username=kaleabasfaw)  
+![Profile views](https://komarev.com/ghpvc/?username=kaleab1212)
+
 
 ---
 
