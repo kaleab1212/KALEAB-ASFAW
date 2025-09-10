@@ -44,5 +44,5 @@
 
 ## 📫 Connect With Me  
 
-🌐 Portfolio Website: [green-scraps.com](https://green-scraps.com)  
+   Phone: +251929518713
 📧 Email: **kaleabasfaw99@gmail.com**  
